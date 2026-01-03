@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Software_Development-005F73?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Data_Science-0A9396?style=for-the-badge&logo=python&logoColor=white" />
   <p align="left">
-    <sub>I treat software development and data science as distinct fields that harmonize in execution. My workflow is inspired by music production: I think in components and build systems layer by layer — from the initial arrangement to the final master.</sub>
+    Bridging software development and data science through a workflow inspired by music production. Systems are built layer by layer — from the initial arrangement to the final master — ensuring every component functions in perfect harmony.  
   </p>
 </div>
 
