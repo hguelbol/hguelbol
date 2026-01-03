@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hakan%20Gülbol&section=header&animation=twinkling&textBg=false&fontSize=40&fontAlignY=30" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hakan%20Gülbol&section=header&animation=twinkling&textBg=false&fontSize=40&fontAlignY=30&descAlignY=0" width="100%" />
 </p>
+
 <div align="center">
-  <h4>Software Development | Data Science</h4>
+  <img src="https://img.shields.io/badge/Software_Development-005F73?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-0A9396?style=for-the-badge&logo=python&logoColor=white" />
+  <p align="left">
+    <sub>I treat software development and data science as distinct fields that harmonize in execution. My workflow is inspired by music production: I think in components and build systems layer by layer — from the initial arrangement to the final master.</sub>
+  </p>
 </div>
-<blockquote align="left">
-  I treat software development and data science as distinct fields that harmonize in execution.  
-  My workflow is inspired by music production: I think in components and build systems layer by layer — from the initial arrangement to the final master.
-</blockquote>
+
 
 ---
 
@@ -131,6 +133,6 @@
   <h2>Connect with me</h2>
   <a href="https://www.linkedin.com/in/hakan-g%C3%BClbol-38273a365/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hguelbol@gmx.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer&animation=twinkling&textBg=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=twinkling&textBg=false" width="100%" />
 </div>
   
