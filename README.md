@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Hakan%20Gülbol&section=header&animation=twinkling&textBg=false&fontSize=40&fontAlignY=30&descAlignY=0" width="100%" />
 </p>
@@ -131,8 +132,16 @@
 
 <div align="center">
   <h2>Connect with me</h2>
-  <a href="https://www.linkedin.com/in/hakan-g%C3%BClbol-38273a365/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hguelbol@gmx.de"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.hguelbol.de/">
+    <img src="https://img.shields.io/badge/Portfolio-005F73?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hakan-g%C3%BClbol-38273a365/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hguelbol@gmx.de">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&animation=twinkling&textBg=false" width="100%" />
 </div>
-  
